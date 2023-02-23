@@ -107,7 +107,7 @@ Clone this repository to your desired folder:
 ### Deployment
 
 You can deploy this project using:
-[LIVE DEMO]()
+[LIVE DEMO](https://byiringiroscar.github.io/FinalAwesomeBookMicroverse.github.io/)
 
 
 github
